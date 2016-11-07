@@ -1,0 +1,44 @@
+C:\Users\adamwhiles.BLOOMINGTON\AppData\Local\Temporary Projects\DriveMapper v2\bin\Debug\DriveMapper v2.exe
+C:\Users\adamwhiles.BLOOMINGTON\AppData\Local\Temporary Projects\DriveMapper v2\bin\Debug\DriveMapper v2.pdb
+C:\Users\adamwhiles.BLOOMINGTON\AppData\Local\Temporary Projects\DriveMapper v2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adamwhiles.BLOOMINGTON\AppData\Local\Temporary Projects\DriveMapper v2\obj\x86\Debug\DriveMapper_v2.Form1.resources
+C:\Users\adamwhiles.BLOOMINGTON\AppData\Local\Temporary Projects\DriveMapper v2\obj\x86\Debug\DriveMapper_v2.Properties.Resources.resources
+C:\Users\adamwhiles.BLOOMINGTON\AppData\Local\Temporary Projects\DriveMapper v2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\adamwhiles.BLOOMINGTON\AppData\Local\Temporary Projects\DriveMapper v2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\adamwhiles.BLOOMINGTON\AppData\Local\Temporary Projects\DriveMapper v2\obj\x86\Debug\DriveMapper v2.exe
+C:\Users\adamwhiles.BLOOMINGTON\AppData\Local\Temporary Projects\DriveMapper v2\obj\x86\Debug\DriveMapper v2.pdb
+C:\Users\adamwhiles.BLOOMINGTON\documents\visual studio 2010\Projects\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper v2.exe
+C:\Users\adamwhiles.BLOOMINGTON\documents\visual studio 2010\Projects\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper v2.pdb
+C:\Users\adamwhiles.BLOOMINGTON\documents\visual studio 2010\Projects\DriveMapper v2\DriveMapper v2\bin\Debug\DriveMapper v2.exe
+C:\Users\adamwhiles.BLOOMINGTON\documents\visual studio 2010\Projects\DriveMapper v2\DriveMapper v2\bin\Debug\DriveMapper v2.pdb
+C:\Users\adamwhiles.BLOOMINGTON\documents\visual studio 2010\Projects\DriveMapper v2\DriveMapper v2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adamwhiles.BLOOMINGTON\documents\visual studio 2010\Projects\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper_v2.Form1.resources
+C:\Users\adamwhiles.BLOOMINGTON\documents\visual studio 2010\Projects\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper_v2.Properties.Resources.resources
+C:\Users\adamwhiles.BLOOMINGTON\documents\visual studio 2010\Projects\DriveMapper v2\DriveMapper v2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\adamwhiles.BLOOMINGTON\documents\visual studio 2010\Projects\DriveMapper v2\DriveMapper v2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\adamwhiles.BLOOMINGTON\Documents\Visual Studio 2010\Projects\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper_v2.Form2.resources
+C:\Users\adamwhiles.BLOOMINGTON\Documents\Visual Studio 2010\Projects\DriveMapper v2\DriveMapper v2\bin\Debug\DriveMapper v2.exe.config
+C:\Users\adamwhiles.BLOOMINGTON\Documents\Visual Studio 2010\Projects\DriveMapper v2\DriveMapper v2\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\adamwhiles.BLOOMINGTON\Documents\Visual Studio 2010\Projects\DriveMapper v2\DriveMapper v2\obj\x86\Debug\ResGen.write.1.tlog
+\\afnbgfsrv1\supervisors\AdamWhiles\DriveMapper v2\DriveMapper v2\bin\Debug\DriveMapper v2.exe.config
+\\afnbgfsrv1\supervisors\AdamWhiles\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper v2.exe
+\\afnbgfsrv1\supervisors\AdamWhiles\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper v2.pdb
+\\afnbgfsrv1\supervisors\AdamWhiles\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper_v2.Form1.resources
+\\afnbgfsrv1\supervisors\AdamWhiles\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper_v2.Form2.resources
+\\afnbgfsrv1\supervisors\AdamWhiles\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper_v2.Properties.Resources.resources
+\\afnbgfsrv1\supervisors\AdamWhiles\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper v2.csproj.GenerateResource.Cache
+\\afnbgfsrv1\supervisors\AdamWhiles\DriveMapper v2\DriveMapper v2\bin\Debug\DriveMapper v2.exe
+\\afnbgfsrv1\supervisors\AdamWhiles\DriveMapper v2\DriveMapper v2\bin\Debug\DriveMapper v2.pdb
+N:\DriveMapper v2\DriveMapper v2\bin\Debug\DriveMapper v2.exe.config
+N:\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper v2.exe
+N:\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper v2.pdb
+N:\DriveMapper v2\DriveMapper v2\bin\Debug\DriveMapper v2.exe
+N:\DriveMapper v2\DriveMapper v2\bin\Debug\DriveMapper v2.pdb
+N:\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper_v2.Properties.Resources.resources
+N:\DriveMapper v2\DriveMapper v2\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+N:\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper v2.csproj.ResolveComReference.cache
+N:\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper_v2.Main.resources
+N:\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper_v2.SingleMap.resources
+N:\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper_v2.ImportMap.resources
+N:\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper_v2.Discover.resources
+N:\DriveMapper v2\DriveMapper v2\obj\x86\Debug\DriveMapper v2.csproj.GenerateResource.Cache
